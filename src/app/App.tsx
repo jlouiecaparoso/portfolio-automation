@@ -48,7 +48,7 @@ const focusAreas = [
 const capabilities = [
   { icon: Workflow, label: "Process Coordination", items: ["Task & workflow coordination", "Scheduling & calendar mgmt", "Process documentation", "Team coordination"] },
   { icon: Database, label: "Data & Organisation", items: ["Data entry & accuracy", "Google Sheets & Excel", "Web research", "Record keeping"] },
-  { icon: Settings, label: "Admin & Marketing Ops", items: ["Email & follow-ups", "Content scheduling tools", "Client communication", "Recruitment / HR support"] },
+  { icon: Settings, label: "Admin & Marketing Ops", items: ["Email & follow-ups", "Content scheduling tools", "Client communication"] },
   { icon: Zap, label: "No-Code Automation", learning: true, items: ["Zapier (learning)", "Make (learning)", "n8n (learning)", "Workflow mapping"] },
   { icon: Code2, label: "App & API Connecting", learning: true, items: ["Connecting apps no-code", "Webhooks & triggers", "Integrating marketing tools", "Basic API concepts"] },
   { icon: Bot, label: "AI-Assisted Tasks", learning: true, items: ["ChatGPT & Claude", "AI-assisted drafting", "AI-assisted data tidy-up", "Prompting for automation"] },
@@ -57,8 +57,7 @@ const capabilities = [
 const timeline = [
   { year: "2025", role: "Assistant Marketing Coordinator / Admin Staff", org: "LetzMarket", note: "Digital Marketing · Canada (Remote)" },
   { year: "2024–2025", role: "Social Media Manager", org: "No Boundaries Marketing Group", note: "Digital Marketing · USA (Remote)" },
-  { year: "2023–2024", role: "Human Resource Staff", org: "Toyota Butuan City", note: "Butuan City, PH" },
-  { year: "2022", role: "BS Information System", org: "Caraga State University", note: "Graduated" },
+  { year: "2026", role: "BS Information System", org: "Caraga State University", note: "Graduated" },
 ];
 
 // Real, honest foundation facts (no invented metrics)
